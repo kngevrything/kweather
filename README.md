@@ -1,5 +1,5 @@
 # kweather
-MagicMirror weather provider using Weather.com's API using a specific weather station's data
+MagicMirror weather provider using Weather.com's API and a specific weather station's data
 
 ## Installation
 
