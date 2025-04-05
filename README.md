@@ -4,7 +4,7 @@ MagicMirror weather provider using Weather.com's API and a specific weather stat
 ## Installation
 
 1. Navigate to the `MagicMirror/modules/default/weather/providers` directory.
-2. Execute `git clone https://github.com/kngevrything/kweather.git`
+2. Execute `git clone https://github.com/kngevrything/kweather.git .`
 3. Configure the module as described in the standard Calendar module
 	- Required Parameter Options:
 		- apiKey: Wunderground API Key
