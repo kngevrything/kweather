@@ -58,7 +58,7 @@ WeatherProvider.register("kweather", {
 
 		// The weather module expects the weather data to be in metric units, if ever it 
 		// is updated to accept the value based on the config.units value, the following 
-		// three lines can be uncommented and used instead.  
+		// line can be uncommented and used instead.  
 		
 		//const unit = (this.config.units === "imperial") ? "e" : "m";
 		const unit = "m"; 
